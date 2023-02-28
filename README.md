@@ -2,4 +2,4 @@
 
 Team Name: LCJJ
 
-Team Members: Jacob Muriel, Lainey Neild, Charlie Lovett, John Troxel
+Team Members: Jacob Muriel, Lainey Neild, Charlie Lovett, Jon Troxel
