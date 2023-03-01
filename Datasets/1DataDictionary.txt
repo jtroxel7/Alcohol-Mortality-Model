@@ -1,3 +1,4 @@
 CLEANED_alcohol_use : percentage of population that has consumed any alcohol in past 12 months by country (also splits up by gender for each country)
 
 CLEANED_heavy_drinkers : percentage of population that has drank heavily (as classified by WHO) in the past 30 days (age 15+, drinkers only)
+

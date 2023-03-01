@@ -1,0 +1,195 @@
+Region,Country,Both sexes,Female,Male
+Africa,Algeria,0.7,0.0,1.4
+Africa,Angola,2.1,0.7,3.6
+Africa,Benin,2.2,0.8,3.7
+Africa,Botswana,2.5,0.7,4.2
+Africa,Burkina Faso,0.7,0.0,1.4
+Africa,Burundi,2.4,0.9,3.9
+Africa,Cabo Verde,2.2,0.8,3.7
+Africa,Cameroon,2.5,0.9,4.0
+Africa,Central African Republic,1.3,0.3,2.3
+Africa,Chad,0.7,0.0,1.4
+Africa,Comoros,0.7,0.0,1.4
+Africa,Congo,0.7,0.2,1.3
+Africa,Côte d’Ivoire,3.5,1.6,5.3
+Africa,Democratic Republic of the Congo,1.7,0.4,3.1
+Africa,Equatorial Guinea,2.4,0.8,3.8
+Africa,Eritrea,0.8,0.2,1.4
+Africa,Eswatini,2.5,0.9,4.1
+Africa,Ethiopia,0.8,0.1,1.5
+Africa,Gabon,2.4,0.8,3.9
+Africa,Gambia,0.7,0.0,1.4
+Africa,Ghana,1.4,0.4,2.5
+Africa,Guinea,0.7,0.0,1.4
+Africa,Guinea-Bissau,0.7,0.0,1.4
+Africa,Kenya,1.4,0.4,2.4
+Africa,Lesotho,1.8,0.5,3.2
+Africa,Liberia,1.8,0.5,3.1
+Africa,Madagascar,0.9,0.2,1.6
+Africa,Malawi,1.2,0.3,2.1
+Africa,Mali,0.7,0.0,1.4
+Africa,Mauritania,0.2,0.0,0.3
+Africa,Mauritius,1.9,0.6,3.3
+Africa,Mozambique,1.1,0.3,2.0
+Africa,Namibia,2.2,0.8,3.7
+Africa,Niger,0.7,0.0,1.4
+Africa,Nigeria,0.1,0.0,0.2
+Africa,Rwanda,2.5,1.0,4.2
+Africa,Sao Tome and Principe,2.2,0.8,3.7
+Africa,Senegal,0.7,0.0,1.4
+Africa,Seychelles,2.5,0.9,4.1
+Africa,Sierra Leone,0.7,0.0,1.4
+Africa,South Africa,2.4,0.7,4.2
+Africa,South Sudan,,,
+Africa,Togo,3.3,1.6,5.1
+Africa,Uganda,2.5,0.7,4.2
+Africa,United Republic of Tanzania,2.4,0.9,3.9
+Africa,Zambia,1.9,0.5,3.3
+Africa,Zimbabwe,2.2,0.8,3.8
+Americas,Antigua and Barbuda,2.7,1.8,3.8
+Americas,Argentina,2.9,1.2,4.8
+Americas,Bahamas,2.8,1.8,3.9
+Americas,Barbados,2.7,1.7,3.8
+Americas,Belize,3.1,1.0,5.2
+Americas,Bolivia (Plurinational State of),2.9,1.8,3.9
+Americas,Brazil,1.4,0.5,2.3
+Americas,Canada,4.1,2.3,6.0
+Americas,Chile,2.5,0.8,4.3
+Americas,Colombia,3.2,1.9,4.5
+Americas,Costa Rica,3.0,1.5,4.4
+Americas,Cuba,2.7,1.7,3.8
+Americas,Dominica,2.8,1.8,3.8
+Americas,Dominican Republic,2.8,1.8,3.9
+Americas,Ecuador,2.8,1.8,3.9
+Americas,El Salvador,2.7,1.8,3.9
+Americas,Grenada,2.8,1.8,3.9
+Americas,Guatemala,2.8,1.8,3.9
+Americas,Guyana,2.9,1.9,3.9
+Americas,Haiti,2.8,1.8,3.9
+Americas,Honduras,2.9,1.8,3.9
+Americas,Jamaica,1.5,0.5,2.5
+Americas,Mexico,1.3,0.3,2.3
+Americas,Nicaragua,2.8,1.8,3.9
+Americas,Panama,2.8,1.8,3.9
+Americas,Paraguay,2.9,1.8,3.9
+Americas,Peru,4.9,1.9,7.9
+Americas,Saint Kitts and Nevis,2.8,1.8,3.8
+Americas,Saint Lucia,2.8,1.8,3.8
+Americas,Saint Vincent and the Grenadines,2.8,1.8,3.9
+Americas,Suriname,2.8,1.8,3.9
+Americas,Trinidad and Tobago,2.8,1.8,3.8
+Americas,United States of America,7.7,5.5,9.9
+Americas,Uruguay,2.7,1.7,3.8
+Americas,Venezuela (Bolivarian Republic of),2.8,1.8,3.9
+Eastern Mediterranean,Afghanistan,0.2,0.1,0.3
+Eastern Mediterranean,Bahrain,0.3,0.1,0.4
+Eastern Mediterranean,Djibouti,0.2,0.1,0.3
+Eastern Mediterranean,Egypt,0.6,0.1,1.2
+Eastern Mediterranean,Iran (Islamic Republic of),0.6,0.1,1.2
+Eastern Mediterranean,Iraq,0.2,0.1,0.3
+Eastern Mediterranean,Jordan,0.2,0.1,0.3
+Eastern Mediterranean,Kuwait,0.2,0.1,0.3
+Eastern Mediterranean,Lebanon,3.7,0.0,7.4
+Eastern Mediterranean,Libya,0.2,0.1,0.3
+Eastern Mediterranean,Morocco,0.2,0.1,0.3
+Eastern Mediterranean,Oman,0.3,0.1,0.3
+Eastern Mediterranean,Pakistan,0.2,0.1,0.3
+Eastern Mediterranean,Qatar,0.1,0.0,0.2
+Eastern Mediterranean,Saudi Arabia,0.2,0.1,0.4
+Eastern Mediterranean,Somalia,0.2,0.1,0.3
+Eastern Mediterranean,Sudan,0.2,0.1,0.3
+Eastern Mediterranean,Syrian Arab Republic,0.2,0.0,0.3
+Eastern Mediterranean,Tunisia,0.2,0.1,0.3
+Eastern Mediterranean,United Arab Emirates,0.3,0.1,0.3
+Eastern Mediterranean,Yemen,0.2,0.1,0.3
+Europe,Albania,3.4,1.4,5.5
+Europe,Andorra,3.4,1.4,5.6
+Europe,Armenia,3.2,1.4,5.5
+Europe,Austria,5.8,3.0,8.8
+Europe,Azerbaijan,3.4,1.4,5.5
+Europe,Belarus,11.0,3.8,19.6
+Europe,Belgium,4.3,2.3,6.3
+Europe,Bosnia and Herzegovina,3.4,1.4,5.5
+Europe,Bulgaria,2.3,0.4,4.3
+Europe,Croatia,3.4,1.4,5.6
+Europe,Cyprus,3.1,1.4,4.7
+Europe,Czechia,2.8,0.8,5.0
+Europe,Denmark,3.9,2.2,5.6
+Europe,Estonia,5.5,1.7,9.9
+Europe,Finland,4.5,1.9,7.2
+Europe,France,3.3,1.5,5.3
+Europe,Georgia,2.1,0.2,4.3
+Europe,Germany,3.5,2.0,5.0
+Europe,Greece,2.7,1.3,4.2
+Europe,Hungary,9.4,3.2,16.5
+Europe,Iceland,1.9,0.9,3.0
+Europe,Ireland,3.8,1.8,5.8
+Europe,Israel,3.3,1.3,5.4
+Europe,Italy,0.6,0.5,0.8
+Europe,Kazakhstan,3.3,1.4,5.5
+Europe,Kyrgyzstan,3.3,1.3,5.3
+Europe,Latvia,10.4,3.0,19.4
+Europe,Lithuania,4.9,1.6,8.9
+Europe,Luxembourg,2.9,1.2,4.7
+Europe,Malta,1.6,0.7,2.5
+Europe,Monaco,,,
+Europe,Montenegro,3.4,1.4,5.5
+Europe,Netherlands,0.6,0.4,0.9
+Europe,Norway,4.0,1.8,6.1
+Europe,Poland,2.2,0.4,4.1
+Europe,Portugal,3.0,1.4,4.9
+Europe,Republic of Moldova,3.3,1.4,5.5
+Europe,Romania,1.3,0.6,2.0
+Europe,Russian Federation,9.3,3.3,16.5
+Europe,San Marino,,,
+Europe,Serbia,3.4,1.3,5.5
+Europe,Slovakia,5.5,1.1,10.2
+Europe,Slovenia,6.2,2.0,10.5
+Europe,Spain,0.7,0.2,1.2
+Europe,Sweden,5.1,3.8,6.4
+Europe,Switzerland,4.3,1.4,7.2
+Europe,Tajikistan,0.4,0.1,0.7
+Europe,The former Yugoslav Republic of Macedonia,3.4,1.4,5.5
+Europe,Turkmenistan,3.3,1.3,5.3
+Europe,Türkiye,1.6,0.7,2.5
+Europe,Ukraine,2.2,0.5,4.2
+Europe,United Kingdom of Great Britain and Northern Ireland,1.4,0.7,2.2
+Europe,Uzbekistan,3.3,1.3,5.3
+South-East Asia,Bangladesh,0.7,0.2,1.2
+South-East Asia,Bhutan,0.8,0.2,1.3
+South-East Asia,Democratic People's Republic of Korea,1.4,0.4,2.4
+South-East Asia,India,3.8,0.4,7.0
+South-East Asia,Indonesia,0.7,0.2,1.3
+South-East Asia,Maldives,0.9,0.3,1.5
+South-East Asia,Myanmar,0.7,0.2,1.3
+South-East Asia,Nepal,0.7,0.2,1.2
+South-East Asia,Sri Lanka,2.6,0.6,4.9
+South-East Asia,Thailand,1.8,0.2,3.5
+South-East Asia,Timor-Leste,0.7,0.2,1.2
+Western Pacific,Australia,1.5,0.8,2.2
+Western Pacific,Brunei Darussalam,0.8,0.3,1.4
+Western Pacific,Cambodia,2.7,0.7,5.0
+Western Pacific,China,2.3,0.1,4.4
+Western Pacific,Cook Islands,2.9,0.7,5.2
+Western Pacific,Fiji,3.0,0.7,5.3
+Western Pacific,Japan,1.1,0.2,2.1
+Western Pacific,Kiribati,2.9,0.7,5.3
+Western Pacific,Lao People's Democratic Republic,2.8,0.7,5.0
+Western Pacific,Malaysia,1.1,0.4,1.8
+Western Pacific,Marshall Islands,,,
+Western Pacific,Micronesia (Federated States of),2.8,0.7,5.0
+Western Pacific,Mongolia,2.8,0.9,4.8
+Western Pacific,Nauru,3.0,0.7,5.3
+Western Pacific,New Zealand,1.3,0.9,1.9
+Western Pacific,Niue,2.9,0.7,5.2
+Western Pacific,Palau,3.0,0.7,5.3
+Western Pacific,Papua New Guinea,2.9,0.7,5.1
+Western Pacific,Philippines,2.9,0.7,5.2
+Western Pacific,Republic of Korea,5.5,3.4,7.7
+Western Pacific,Samoa,3.0,0.7,5.2
+Western Pacific,Singapore,0.5,0.2,0.7
+Western Pacific,Solomon Islands,2.9,0.7,5.1
+Western Pacific,Tonga,2.8,0.7,5.1
+Western Pacific,Tuvalu,2.9,0.7,5.2
+Western Pacific,Vanuatu,2.9,0.7,5.1
+Western Pacific,Viet Nam,2.9,0.1,5.9
