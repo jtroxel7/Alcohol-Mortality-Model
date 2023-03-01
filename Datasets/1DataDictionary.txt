@@ -1,4 +1,30 @@
+
+CLEANED_alc_disorders_by_age : Disability-Adjusted Life Years from alcohol use disorders per 100,000 individuals in a country, sorted by age group.
+
+CLEANED_alcohol use disorders : 
+
+CLEANED_alcohol-consumption-vs-gdp-per-capita : 
+
+CLEANED_alcohol-expenditure-as-share-of-total : 
+
+CLEANED_alcohol_dependence : 
+
 CLEANED_alcohol_use : percentage of population that has consumed any alcohol in past 12 months by country (also splits up by gender for each country)
+
+CLEANED_beer-as-share-alcohol-consumption : 
 
 CLEANED_heavy_drinkers : percentage of population that has drank heavily (as classified by WHO) in the past 30 days (age 15+, drinkers only)
 
+CLEANED_prevalence-of-alcohol-use-disorders-by-age : 
+
+CLEANED_share-of-adults-who-drank-alcohol-in-last-year : 
+
+CLEANED_share-of-population-who-never-drink-alcohol-in-last-year : 
+
+CLEANED_share-who-have-not-drank-alcohol-in-last-year : 
+
+CLEANED_spirits-as-share-alcohol-consumption : 
+
+CLEANED_total-alcohol-consumption-per-capita-litres-of-pure-alcohol : 
+
+CLEANED_wine-as-share-alcohol-consumption : 
