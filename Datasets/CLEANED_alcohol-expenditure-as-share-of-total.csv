@@ -1,0 +1,506 @@
+,Country,Year,alcohol_expend_as_percent_of_tot_house_expend
+0,Albania,2007,2.1
+1,Albania,2014,1.6
+2,Albania,2015,1.3
+3,Albania,2016,1.3
+4,Armenia,1990,4.0
+5,Armenia,1991,2.8
+6,Armenia,1992,2.8
+7,Armenia,1993,3.4
+8,Armenia,1994,2.2
+9,Armenia,1995,1.7
+10,Armenia,1996,1.3
+11,Armenia,1999,1.9
+12,Armenia,2001,1.6
+13,Armenia,2002,1.6
+14,Armenia,2003,1.6
+15,Armenia,2004,1.6
+16,Armenia,2005,1.6
+17,Armenia,2006,1.7
+18,Armenia,2007,1.7
+19,Armenia,2008,1.5
+20,Armenia,2009,1.6
+21,Armenia,2010,1.8
+22,Armenia,2011,1.8
+23,Armenia,2012,1.5
+24,Armenia,2013,1.4
+25,Armenia,2014,1.3
+26,Armenia,2015,1.4
+27,Armenia,2016,1.2
+28,Australia,1991,4.1
+29,Australia,1993,2.9
+30,Australia,1994,2.9
+31,Australia,1999,2.9
+32,Australia,2004,2.6
+33,Australia,2010,2.6
+34,Australia,2015,2.3
+35,Austria,1995,1.7
+36,Austria,1996,1.6
+37,Austria,1997,1.6
+38,Austria,1998,1.5
+39,Austria,1999,1.5
+40,Austria,2000,1.4
+41,Austria,2001,1.4
+42,Austria,2002,1.4
+43,Austria,2003,1.4
+44,Austria,2004,1.4
+45,Austria,2005,1.4
+46,Austria,2006,1.3
+47,Austria,2007,1.3
+48,Austria,2008,1.4
+49,Austria,2009,1.4
+50,Austria,2010,1.4
+51,Austria,2011,1.4
+52,Austria,2012,1.4
+53,Austria,2013,1.4
+54,Austria,2014,1.4
+55,Austria,2015,1.4
+56,Austria,2016,1.3
+57,Azerbaijan,1990,1.3
+58,Azerbaijan,1991,1.3
+59,Azerbaijan,1992,1.0
+60,Azerbaijan,1993,1.2
+61,Azerbaijan,1994,1.1
+62,Azerbaijan,1995,0.9
+63,Azerbaijan,2005,0.6
+64,Azerbaijan,2008,0.6
+65,Azerbaijan,2009,0.6
+66,Azerbaijan,2010,0.5
+67,Azerbaijan,2011,0.5
+68,Azerbaijan,2012,0.5
+69,Azerbaijan,2013,0.5
+70,Azerbaijan,2014,0.5
+71,Azerbaijan,2015,0.5
+72,Azerbaijan,2016,0.6
+73,Azerbaijan,2017,0.5
+74,Belarus,1990,7.4
+75,Belarus,1991,5.9
+76,Belarus,1992,5.4
+77,Belarus,1993,5.6
+78,Belarus,1994,4.7
+79,Belarus,1995,3.3
+80,Belarus,2000,3.5
+81,Belarus,2005,2.5
+82,Belarus,2007,2.3
+83,Belarus,2008,2.3
+84,Belarus,2009,2.2
+85,Belarus,2010,2.2
+86,Belarus,2011,2.2
+87,Belarus,2012,2.6
+88,Belarus,2013,2.6
+89,Belarus,2014,2.5
+90,Bhutan,2007,3.8
+91,Bhutan,2012,4.3
+92,Bhutan,2017,3.2
+93,Canada,1990,2.3
+94,Canada,1991,2.2
+95,Canada,1992,2.2
+96,Canada,1993,2.2
+97,Canada,1994,2.2
+98,Canada,1995,2.2
+99,Canada,1996,2.0
+100,Canada,1997,2.0
+101,Canada,1998,2.2
+102,Canada,1999,2.0
+103,Canada,2000,2.1
+104,Canada,2001,2.0
+105,Canada,2002,2.1
+106,Canada,2003,2.1
+107,Canada,2004,2.1
+108,Canada,2005,2.0
+109,Canada,2006,2.0
+110,Canada,2007,2.0
+111,Canada,2008,2.0
+112,Canada,2009,2.1
+113,Canada,2010,2.0
+114,Canada,2011,2.0
+115,Canada,2012,1.1
+116,Canada,2013,1.2
+117,Canada,2014,1.1
+118,Canada,2015,1.2
+119,Canada,2016,1.2
+120,Cook Islands,2005,1.2
+121,Croatia,2005,1.6
+122,Croatia,2006,1.6
+123,Croatia,2007,1.6
+124,Croatia,2009,1.5
+125,Croatia,2010,1.5
+126,Croatia,2011,1.5
+127,Croatia,2014,1.3
+128,Cyprus,1991,0.6
+129,Czechia,2010,1.1
+130,Czechia,2011,1.1
+131,Czechia,2012,1.1
+132,Czechia,2013,1.2
+133,Czechia,2014,1.2
+134,Czechia,2015,1.2
+135,Czechia,2016,1.5
+136,Denmark,1994,2.4
+137,Denmark,1998,2.3
+138,Denmark,1999,2.3
+139,Denmark,2000,2.3
+140,Denmark,2001,2.3
+141,Denmark,2002,2.2
+142,Denmark,2003,2.3
+143,Denmark,2004,1.9
+144,Denmark,2005,1.9
+145,Denmark,2006,1.8
+146,Denmark,2007,1.7
+147,Denmark,2008,1.7
+148,Denmark,2009,1.7
+149,Denmark,2010,1.6
+150,Denmark,2011,1.6
+151,Denmark,2012,1.7
+152,Denmark,2013,1.8
+153,Denmark,2014,1.7
+154,Denmark,2015,1.7
+155,Estonia,1996,1.7
+156,Estonia,1997,1.9
+157,Estonia,1998,1.9
+158,Estonia,1999,2.0
+159,Estonia,2000,2.1
+160,Estonia,2001,1.9
+161,Estonia,2002,2.1
+162,Estonia,2003,2.1
+163,Estonia,2004,1.9
+164,Estonia,2005,1.9
+165,Estonia,2006,1.9
+166,Estonia,2007,1.9
+167,Estonia,2010,2.2
+168,Estonia,2011,2.1
+169,Estonia,2012,2.5
+170,Estonia,2015,2.2
+171,Estonia,2016,2.1
+172,Ethiopia,2010,3.6
+173,Finland,1990,7.1
+174,Finland,1991,7.0
+175,Finland,1992,6.9
+176,Finland,1993,6.5
+177,Finland,1994,6.2
+178,Finland,1998,5.6
+179,Finland,1999,5.7
+180,Finland,2000,5.4
+181,Finland,2001,5.4
+182,Finland,2002,5.5
+183,Finland,2003,5.4
+184,Finland,2004,4.8
+185,Finland,2005,4.6
+186,Finland,2006,4.6
+187,Finland,2007,4.7
+188,Finland,2008,4.6
+189,Finland,2009,4.8
+190,Finland,2010,4.7
+191,Finland,2011,4.5
+192,Finland,2012,4.4
+193,Finland,2013,4.3
+194,Finland,2014,4.2
+195,Finland,2015,4.1
+196,France,2006,1.4
+197,Georgia,1990,1.3
+198,Georgia,1991,1.1
+199,Greece,2000,0.9
+200,Greece,2002,0.9
+201,Greece,2003,1.0
+202,Greece,2004,1.0
+203,Greece,2005,1.0
+204,Greece,2006,1.0
+205,Greece,2007,0.9
+206,Greece,2008,0.9
+207,Greece,2009,0.9
+208,Hungary,2006,1.1
+209,Hungary,2007,1.1
+210,Hungary,2008,1.1
+211,Hungary,2009,1.1
+212,Hungary,2010,1.1
+213,Hungary,2011,3.1
+214,Hungary,2012,3.1
+215,Hungary,2013,3.0
+216,Hungary,2014,3.2
+217,Hungary,2015,2.9
+218,Iceland,1990,3.4
+219,Iceland,1991,3.2
+220,Iceland,1992,3.2
+221,Iceland,1993,3.1
+222,Iceland,1998,3.2
+223,Iceland,1999,3.2
+224,Iceland,2000,3.3
+225,Iceland,2001,3.5
+226,Iceland,2002,3.7
+227,Iceland,2003,3.2
+228,Iceland,2004,3.0
+229,Iceland,2005,2.9
+230,Iceland,2006,2.8
+231,Iceland,2007,2.9
+232,Ireland,2015,2.5
+233,Italy,1990,1.1
+234,Italy,1991,1.1
+235,Italy,1992,1.1
+236,Italy,1993,1.0
+237,Italy,1994,0.9
+238,Italy,1995,0.8
+239,Italy,1996,0.9
+240,Italy,1997,0.8
+241,Italy,1998,0.8
+242,Italy,1999,0.8
+243,Italy,2000,0.8
+244,Italy,2001,0.8
+245,Italy,2002,0.8
+246,Italy,2003,0.8
+247,Italy,2004,0.8
+248,Italy,2005,0.8
+249,Italy,2006,0.8
+250,Italy,2007,0.7
+251,Italy,2008,0.7
+252,Italy,2009,0.7
+253,Italy,2010,0.7
+254,Italy,2014,1.4
+255,Italy,2015,1.6
+256,Italy,2016,1.6
+257,Japan,1990,1.2
+258,Japan,1991,1.3
+259,Japan,1992,1.2
+260,Japan,1993,1.2
+261,Japan,1994,1.1
+262,Japan,1995,1.2
+263,Japan,1996,1.2
+264,Japan,1997,1.2
+265,Japan,1998,1.1
+266,Japan,1999,1.2
+267,Japan,2000,1.2
+268,Japan,2001,1.1
+269,Japan,2002,1.1
+270,Japan,2003,1.1
+271,Japan,2004,1.1
+272,Japan,2005,1.1
+273,Japan,2006,1.1
+274,Japan,2007,1.1
+275,Japan,2012,1.6
+276,Japan,2013,1.0
+277,Kazakhstan,1990,5.0
+278,Kazakhstan,1991,4.3
+279,Kazakhstan,1992,5.4
+280,Kazakhstan,1993,5.0
+281,Kazakhstan,1994,3.4
+282,Kazakhstan,1995,2.5
+283,Kyrgyzstan,1990,3.9
+284,Kyrgyzstan,1991,4.2
+285,Kyrgyzstan,1992,3.4
+286,Kyrgyzstan,1993,2.8
+287,Kyrgyzstan,1994,2.7
+288,Kyrgyzstan,1995,1.9
+289,Latvia,1994,2.0
+290,Lebanon,2005,0.1
+291,Lebanon,2012,0.2
+292,Lithuania,1990,6.1
+293,Lithuania,1993,2.0
+294,Lithuania,1998,3.4
+295,Lithuania,2008,2.5
+296,Lithuania,2012,2.4
+297,Mexico,1994,1.0
+298,Mexico,2006,2.0
+299,Mexico,2008,1.9
+300,Mexico,2010,1.9
+301,Mexico,2012,1.9
+302,Moldova,1990,2.6
+303,Moldova,1991,2.5
+304,Moldova,1992,2.2
+305,Moldova,1993,2.2
+306,Moldova,1994,2.0
+307,Moldova,1995,1.9
+308,Netherlands,2010,0.7
+309,Netherlands,2011,0.07
+310,Netherlands,2012,0.8
+311,Netherlands,2013,0.8
+312,Netherlands,2014,0.8
+313,New Zealand,2007,2.0
+314,New Zealand,2010,2.1
+315,New Zealand,2013,1.9
+316,New Zealand,2015,1.7
+317,North Macedonia,2006,1.3
+318,North Macedonia,2007,1.4
+319,North Macedonia,2008,1.7
+320,North Macedonia,2009,1.8
+321,North Macedonia,2010,1.8
+322,North Macedonia,2011,1.6
+323,North Macedonia,2012,1.8
+324,North Macedonia,2013,1.3
+325,North Macedonia,2014,1.0
+326,North Macedonia,2015,1.2
+327,North Macedonia,2016,1.1
+328,Norway,1990,4.6
+329,Norway,1991,4.6
+330,Norway,1992,4.4
+331,Norway,1993,4.2
+332,Norway,1994,4.2
+333,Norway,1995,4.1
+334,Norway,1996,4.0
+335,Norway,1997,4.1
+336,Norway,1998,4.1
+337,Norway,1999,3.9
+338,Norway,2000,3.9
+339,Norway,2001,3.9
+340,Norway,2002,3.5
+341,Norway,2003,3.2
+342,Norway,2004,3.2
+343,Norway,2005,3.1
+344,Norway,2006,2.9
+345,Norway,2007,2.8
+346,Norway,2008,2.7
+347,Norway,2009,2.2
+348,Norway,2010,2.1
+349,Norway,2011,2.0
+350,Norway,2012,2.2
+351,Norway,2013,2.3
+352,Norway,2014,2.2
+353,Palau,1990,5.4
+354,Palau,2006,0.9
+355,Palau,2014,1.1
+356,Philippines,2012,0.6
+357,Philippines,2015,0.5
+358,Poland,1990,8.5
+359,Poland,1991,8.5
+360,Poland,1992,7.2
+361,Poland,1993,6.8
+362,Poland,2012,0.8
+363,Romania,1991,11.0
+364,Romania,1997,2.9
+365,Romania,1998,3.5
+366,Romania,1999,4.2
+367,Romania,2000,3.8
+368,Romania,2008,4.0
+369,Romania,2009,4.0
+370,Romania,2010,4.0
+371,Romania,2011,4.0
+372,Romania,2012,4.0
+373,Romania,2013,4.0
+374,Russia,1990,5.0
+375,Russia,1991,4.2
+376,Russia,1992,4.0
+377,Russia,1993,3.1
+378,Russia,1994,2.9
+379,Russia,1995,2.5
+380,Russia,2000,2.5
+381,Russia,2005,1.9
+382,Russia,2006,1.9
+383,Russia,2007,1.7
+384,Russia,2008,1.6
+385,Russia,2009,1.7
+386,Russia,2010,1.7
+387,Russia,2011,1.7
+388,Russia,2012,1.7
+389,Russia,2013,1.7
+390,Russia,2014,1.7
+391,Russia,2015,1.8
+392,Russia,2016,1.7
+393,Samoa,2008,0.7
+394,Seychelles,1993,22.0
+395,Singapore,2012,0.3
+396,Slovenia,2000,1.1
+397,Slovenia,2001,1.0
+398,Slovenia,2002,1.0
+399,Slovenia,2003,1.0
+400,Slovenia,2004,0.9
+401,Slovenia,2005,0.9
+402,Slovenia,2006,1.0
+403,Slovenia,2007,1.0
+404,Slovenia,2008,1.0
+405,Slovenia,2009,1.0
+406,Slovenia,2010,1.0
+407,Slovenia,2012,1.1
+408,Slovenia,2015,1.0
+409,South Africa,1992,7.8
+410,South Africa,2009,0.4
+411,South Africa,2015,0.5
+412,Spain,1992,1.3
+413,Sweden,1992,3.7
+414,Sweden,1995,3.1
+415,Sweden,1997,3.2
+416,Sweden,1999,3.4
+417,Sweden,2000,3.3
+418,Sweden,2001,3.1
+419,Sweden,2002,3.0
+420,Sweden,2003,3.0
+421,Sweden,2004,2.8
+422,Sweden,2005,2.8
+423,Sweden,2007,2.7
+424,Sweden,2008,2.7
+425,Sweden,2009,2.9
+426,Sweden,2010,1.9
+427,Sweden,2011,1.9
+428,Sweden,2012,1.9
+429,Sweden,2013,1.9
+430,Sweden,2014,1.9
+431,Tajikistan,1990,1.8
+432,Tajikistan,1991,1.7
+433,Tajikistan,1992,2.0
+434,Tajikistan,1993,2.2
+435,Tajikistan,2006,0.2
+436,Tajikistan,2007,0.2
+437,Tajikistan,2008,0.1
+438,Tajikistan,2009,0.1
+439,Tajikistan,2010,0.1
+440,Tajikistan,2011,0.1
+441,Tajikistan,2012,0.1
+442,Tajikistan,2013,0.1
+443,Tajikistan,2014,0.1
+444,Thailand,1992,2.5
+445,Thailand,2007,1.6
+446,Thailand,2012,1.2
+447,Thailand,2013,1.1
+448,Thailand,2014,1.0
+449,Turkmenistan,1990,3.4
+450,Turkmenistan,1991,2.6
+451,Turkmenistan,1992,3.2
+452,Turkmenistan,1993,3.9
+453,Turkmenistan,1994,4.0
+454,Ukraine,1990,3.7
+455,Ukraine,1991,2.8
+456,Ukraine,2007,1.7
+457,Ukraine,2008,1.5
+458,Ukraine,2009,1.6
+459,Ukraine,2010,1.6
+460,Ukraine,2011,1.4
+461,Ukraine,2012,1.5
+462,Ukraine,2013,1.5
+463,Ukraine,2014,1.5
+464,Ukraine,2015,1.3
+465,United Kingdom,1990,6.5
+466,United Kingdom,1991,6.5
+467,United Kingdom,1992,6.3
+468,United Kingdom,1993,6.2
+469,United Kingdom,1994,6.2
+470,United Kingdom,1995,6.0
+471,United Kingdom,1996,6.2
+472,United Kingdom,1997,6.1
+473,United Kingdom,1998,6.1
+474,United Kingdom,1999,5.9
+475,United Kingdom,2000,5.8
+476,United Kingdom,2001,5.7
+477,United Kingdom,2002,5.8
+478,United Kingdom,2003,5.6
+479,United Kingdom,2004,5.5
+480,United Kingdom,2005,5.4
+481,United Kingdom,2006,5.2
+482,United Kingdom,2012,1.6
+483,United States,1990,0.9
+484,United States,1995,0.9
+485,United States,1998,0.9
+486,United States,1999,0.9
+487,United States,2000,1.0
+488,United States,2001,0.9
+489,United States,2002,0.9
+490,United States,2003,1.0
+491,United States,2004,1.1
+492,United States,2005,0.9
+493,United States,2006,1.0
+494,United States,2007,0.9
+495,United States,2008,0.9
+496,United States,2009,0.9
+497,Uzbekistan,1990,2.9
+498,Uzbekistan,1991,3.2
+499,Uzbekistan,1992,3.2
+500,Uzbekistan,1993,2.9
+501,Uzbekistan,1994,2.5
+502,Uzbekistan,1995,1.9
+503,Uzbekistan,2016,0.5
+504,Zimbabwe,1990,7.0
