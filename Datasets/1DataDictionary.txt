@@ -1,30 +1,30 @@
 
 CLEANED_alc_disorders_by_age : Disability-Adjusted Life Years from alcohol use disorders per 100,000 individuals in a country, sorted by age group.
 
-CLEANED_alcohol use disorders : 
+CLEANED_alcohol use disorders : Percentage of population with alcohol use disorders by gender
 
-CLEANED_alcohol-consumption-vs-gdp-per-capita : 
+CLEANED_alcohol-consumption-vs-gdp-per-capita : Alcohol consumption (liters of pure alcohol per capita per year) and GDP per capita 
 
-CLEANED_alcohol-expenditure-as-share-of-total : 
+CLEANED_alcohol-expenditure-as-share-of-total : Alcohol expenditure as a percentage of total household expenditure
 
-CLEANED_alcohol_dependence : 
+CLEANED_alcohol_dependence : Percentage of population that is dependent on the use of alcohol, by gender
 
-CLEANED_alcohol_use : percentage of population that has consumed any alcohol in past 12 months by country (also splits up by gender for each country)
+CLEANED_alcohol_use : Percentage of population that has consumed any alcohol in past 12 months by country (also splits up by gender for each country)
 
-CLEANED_beer-as-share-alcohol-consumption : 
+CLEANED_beer-as-share-alcohol-consumption : Percentage of alcohol consumed by type of beverage: beer
 
-CLEANED_heavy_drinkers : percentage of population that has drank heavily (as classified by WHO) in the past 30 days (age 15+, drinkers only)
+CLEANED_heavy_drinkers : Percentage of population that has drank heavily (as classified by WHO) in the past 30 days (age 15+, drinkers only)
 
-CLEANED_prevalence-of-alcohol-use-disorders-by-age : 
+CLEANED_prevalence-of-alcohol-use-disorders-by-age : Percentage of population within age categories tha suffer from alcohol use disorders
 
-CLEANED_share-of-adults-who-drank-alcohol-in-last-year : 
+CLEANED_share-of-adults-who-drank-alcohol-in-last-year : Percentage of adults (aged 15 years and older) who drank alcohol in 2016
 
-CLEANED_share-of-population-who-never-drink-alcohol-in-last-year : 
+CLEANED_share-of-population-who-never-drink-alcohol : Percentage of adults (aged 15 years and older) who are lifetime abstainers from alcohol
 
-CLEANED_share-who-have-not-drank-alcohol-in-last-year : 
+CLEANED_share-who-have-not-drank-alcohol-in-last-year : Percentage of adults (aged 15 years or older) who did not drink alcohol in 2016
 
-CLEANED_spirits-as-share-alcohol-consumption : 
+CLEANED_spirits-as-share-alcohol-consumption : Percentage of alcohol consumed by type of beverage: spirits
 
-CLEANED_total-alcohol-consumption-per-capita-litres-of-pure-alcohol : 
+CLEANED_total-alcohol-consumption-per-capita-litres-of-pure-alcohol : Total alcohol consumption per person by liters of pure alcohol, by years between 2000 and 2020
 
-CLEANED_wine-as-share-alcohol-consumption : 
+CLEANED_wine-as-share-alcohol-consumption : Percentage of alcohol consumed by type of beverage: wine
