@@ -1,0 +1,189 @@
+Region,Country,Both sexes,Female,Male
+Africa,Algeria,3.2,1.5,4.8
+Africa,Angola,47.7,34.3,61.6
+Africa,Benin,26.1,15.4,37
+Africa,Botswana,32,20,44
+Africa,Burkina Faso,36.9,23.2,51.2
+Africa,Burundi,31.6,20,43.7
+Africa,Cabo Verde,39.4,25,53.8
+Africa,Cameroon,33.8,21.4,46.9
+Africa,Central African Republic,37.6,24.9,50.8
+Africa,Chad,22.4,13.1,31.7
+Africa,Comoros,4.1,1.9,6.2
+Africa,Congo,51.7,38,65.5
+Africa,Côte d’Ivoire,38.5,24.1,52.3
+Africa,Democratic Republic of the Congo,36.4,23.8,49.2
+Africa,Equatorial Guinea,72.9,61.7,83.3
+Africa,Eritrea,20.3,11.6,29.2
+Africa,Eswatini,28.8,17.7,40.4
+Africa,Ethiopia,22.6,13.2,32.1
+Africa,Gabon,66.5,54.1,78.6
+Africa,Gambia,26.7,16.2,37.8
+Africa,Ghana,26,15.7,36.8
+Africa,Guinea,21.6,12.6,30.7
+Africa,Guinea-Bissau,28.8,17.5,40.5
+Africa,Kenya,23.9,14,33.8
+Africa,Lesotho,17.8,9.9,26.1
+Africa,Liberia,30.8,18.9,42.7
+Africa,Madagascar,20.9,12,30
+Africa,Malawi,23.7,13.9,33.6
+Africa,Mali,21.9,12.8,31.1
+Africa,Mauritania,0.9,0.5,1.4
+Africa,Mauritius,31.2,19.5,43.4
+Africa,Mozambique,21,12.3,30.5
+Africa,Namibia,30.3,19.1,42.4
+Africa,Niger,20.2,11.7,28.8
+Africa,Nigeria,52.6,37.7,67
+Africa,Rwanda,35,23.4,48.4
+Africa,Sao Tome and Principe,34,21.5,46.8
+Africa,Senegal,21.1,12.5,30.4
+Africa,Seychelles,54.9,40.9,68.7
+Africa,Sierra Leone,30.9,19.2,43.1
+Africa,Togo,25.7,15.2,36.5
+Africa,Uganda,36.3,23.8,49.1
+Africa,United Republic of Tanzania,36.4,24,49.3
+Africa,Zambia,27.3,16.5,38.3
+Africa,Zimbabwe,17.6,10,25.7
+Americas,Antigua and Barbuda,49.4,36.5,63.9
+Americas,Argentina,67.4,55.7,79.9
+Americas,Bahamas,43.8,30.5,57.9
+Americas,Barbados,50.5,37.4,65.2
+Americas,Belize,41.5,28.4,54.9
+Americas,Bolivia (Plurinational State of),45.4,31.9,59.1
+Americas,Brazil,40.3,27.3,54
+Americas,Canada,64.5,52.1,77.3
+Americas,Chile,67.6,55.8,80
+Americas,Colombia,38.3,25.6,51.7
+Americas,Costa Rica,36.6,23.9,49.5
+Americas,Cuba,46.1,32.3,59.9
+Americas,Dominica,45.2,31.7,59
+Americas,Dominican Republic,43,29.7,56.7
+Americas,Ecuador,46.5,32.9,60.3
+Americas,El Salvador,29.4,19,41.8
+Americas,Grenada,49.6,35.7,63.6
+Americas,Guatemala,27.3,16.9,38.6
+Americas,Guyana,39.1,25.9,52.2
+Americas,Haiti,35.1,22.9,47.9
+Americas,Honduras,29.8,18.5,41.3
+Americas,Jamaica,34.9,22.6,47.4
+Americas,Mexico,42.7,29.4,56.4
+Americas,Nicaragua,32.5,20.8,44.9
+Americas,Panama,47.7,34,61.5
+Americas,Paraguay,36,23.2,48.4
+Americas,Peru,53.2,39.6,67.1
+Americas,Saint Kitts and Nevis,54.8,41.3,68.6
+Americas,Saint Lucia,49.7,36.3,63.9
+Americas,Saint Vincent and the Grenadines,46.6,32.8,60.3
+Americas,Suriname,42.2,28.7,55.8
+Americas,Trinidad and Tobago,58.7,45.6,72.5
+Americas,United States of America,71.7,60.7,83
+Americas,Uruguay,68.9,57.6,81.3
+Americas,Venezuela (Bolivarian Republic of),38,25.2,51.2
+Eastern Mediterranean,Afghanistan,0.7,0.3,1
+Eastern Mediterranean,Bahrain,8.8,3.8,11.5
+Eastern Mediterranean,Djibouti,19.7,11.1,28.2
+Eastern Mediterranean,Egypt,2.8,1.4,4.2
+Eastern Mediterranean,Iran (Islamic Republic of),3.5,1.1,6
+Eastern Mediterranean,Iraq,3.1,1.5,4.7
+Eastern Mediterranean,Jordan,3,1.4,4.5
+Eastern Mediterranean,Kuwait,0.6,0.2,0.8
+Eastern Mediterranean,Lebanon,6.1,3,9.2
+Eastern Mediterranean,Libya,0.1,0.1,0.2
+Eastern Mediterranean,Morocco,2.6,1.3,3.9
+Eastern Mediterranean,Oman,8.3,3.3,10.4
+Eastern Mediterranean,Pakistan,1.2,0.6,1.8
+Eastern Mediterranean,Qatar,45.6,25.2,52.1
+Eastern Mediterranean,Saudi Arabia,5.8,3.5,7.3
+Eastern Mediterranean,Somalia,31,19.4,43.2
+Eastern Mediterranean,Sudan,2.3,1.1,3.4
+Eastern Mediterranean,Syrian Arab Republic,2,0.7,3.4
+Eastern Mediterranean,Tunisia,5.2,1.6,8.9
+Eastern Mediterranean,United Arab Emirates,18.5,7.9,21.7
+Eastern Mediterranean,Yemen,0.7,0.3,1.1
+Europe,Albania,51,37.6,65
+Europe,Andorra,74.6,64.3,85.2
+Europe,Armenia,26,16.2,38
+Europe,Austria,78.1,68.9,87.7
+Europe,Azerbaijan,21.9,12.8,31.6
+Europe,Belarus,73.6,69.2,79
+Europe,Belgium,76.5,66.8,86.6
+Europe,Bosnia and Herzegovina,47.9,34,62.1
+Europe,Bulgaria,66,53.9,79.2
+Europe,Croatia,59.7,46.8,73.9
+Europe,Cyprus,68.8,56.6,80.6
+Europe,Czechia,75.4,65.4,86
+Europe,Denmark,74.4,64.2,85
+Europe,Estonia,72.8,62.6,84.9
+Europe,Finland,72.5,61.7,83.8
+Europe,France,75.3,65.6,85.8
+Europe,Georgia,35.1,23,48.9
+Europe,Germany,79.4,70.6,88.5
+Europe,Greece,65.4,53.3,78.3
+Europe,Hungary,66.6,54.8,79.9
+Europe,Iceland,71.5,60.3,82.6
+Europe,Ireland,81.3,73.1,89.5
+Europe,Israel,55,41.6,68.9
+Europe,Italy,67.8,54.4,81.2
+Europe,Kazakhstan,39.9,27.2,54.3
+Europe,Kyrgyzstan,25.9,15.5,36.8
+Europe,Latvia,75,65.5,86.5
+Europe,Lithuania,79.1,70.9,89.1
+Europe,Luxembourg,91.8,87.7,95.8
+Europe,Malta,63,50,76.2
+Europe,Montenegro,54,40.4,68.2
+Europe,Netherlands,72.1,61.2,83.3
+Europe,Norway,79,69.8,88
+Europe,Poland,68,56.4,80.7
+Europe,Portugal,69.2,58.3,81.6
+Europe,Republic of Moldova,66.6,54.8,79.6
+Europe,Romania,67.2,55.5,80.1
+Europe,Russian Federation,58.1,55.4,61.4
+Europe,Serbia,60,47,73.8
+Europe,Slovakia,71.3,60,82.9
+Europe,Slovenia,13.5,7.3,19.7
+Europe,Spain,68.6,57,80.9
+Europe,Sweden,73,62.2,83.9
+Europe,Switzerland,81.2,73,89.6
+Europe,Tajikistan,20.7,11.8,29.6
+Europe,The former Yugoslav Republic of Macedonia,53.7,39.9,67.7
+Europe,Turkmenistan,30.4,19,42.5
+Europe,Türkiye,6.9,3,11
+Europe,Ukraine,61.8,56.1,68.7
+Europe,United Kingdom of Great Britain and Northern Ireland,73.4,63,84.3
+Europe,Uzbekistan,20.8,12,30.1
+South-East Asia,Bangladesh,2.2,1,3.5
+South-East Asia,Bhutan,29.6,17.3,39.8
+South-East Asia,Democratic People's Republic of Korea,40.3,27.7,53.7
+South-East Asia,India,38.8,25.4,51.4
+South-East Asia,Indonesia,22.7,13.2,32.3
+South-East Asia,Maldives,7.9,3.9,12.1
+South-East Asia,Myanmar,27.1,16.5,38.3
+South-East Asia,Nepal,27.1,17.1,38.4
+South-East Asia,Sri Lanka,28.7,17.9,40.6
+South-East Asia,Thailand,40.9,27.7,54.6
+South-East Asia,Timor-Leste,21.6,12.4,30.6
+Western Pacific,Australia,79.4,70.6,88.3
+Western Pacific,Brunei Darussalam,33.3,29.1,37.3
+Western Pacific,Cambodia,30.9,19.6,43.2
+Western Pacific,China,55.9,42.6,68.6
+Western Pacific,Cook Islands,50.6,37,64.5
+Western Pacific,Fiji,17.7,9.8,25.5
+Western Pacific,Japan,57,43.7,71.3
+Western Pacific,Kiribati,12.1,6.5,18.1
+Western Pacific,Lao People's Democratic Republic,40,27,53.4
+Western Pacific,Malaysia,29.6,18.2,41.2
+Western Pacific,Micronesia (Federated States of),15.2,8.1,22
+Western Pacific,Mongolia,33.6,21.5,46.3
+Western Pacific,Nauru,22,12.8,31.5
+Western Pacific,New Zealand,74.6,64.8,85.1
+Western Pacific,Niue,33.2,21.1,45.5
+Western Pacific,Papua New Guinea,13.7,7.3,19.9
+Western Pacific,Philippines,33.1,21,45.3
+Western Pacific,Republic of Korea,63.9,51.2,77
+Western Pacific,Samoa,16,8.5,22.9
+Western Pacific,Singapore,70,58.8,81.7
+Western Pacific,Solomon Islands,0.7,0.3,1.1
+Western Pacific,Tonga,14.2,7.7,20.9
+Western Pacific,Tuvalu,14.4,7.8,21.1
+Western Pacific,Vanuatu,13.6,7.4,19.9
+Western Pacific,Viet Nam,99.4,23.9,50
