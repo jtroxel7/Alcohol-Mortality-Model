@@ -1,5 +1,5 @@
-# Winter 2023 STAT 303-2 Final Project
+# Winter 2023 Data Science 303-2 Final Project
+Logistic Regression to Assess Global Alcohol-Attributable Mortality
 
-Team Name: LCJJ
-
-Team Members: Jacob Muriel, Lainey Neild, Charlie Lovett, Jack Troxel
+This project was completed in the Winter of 2022.
+Authors: Jacob Muriel, Lainey Neild, Charlie Lovett, Jack Troxel
